@@ -76,5 +76,5 @@
 ---
 
 <div align="center">
-  <p>© 2025 KANGNAMSTYLE 프로젝트</p>
+  <p>© 2024 강남대학교 캡스톤디자인 프로젝트</p>
 </div>
