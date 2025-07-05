@@ -47,9 +47,23 @@
 
 ---
 
-## 📸 프로젝트 시연 (Demo)
+## 📸 프로젝트 발표 (Presentation)
 
-<!-- 나중에 여기에 이미지 또는 GIF를 추가하세요 -->
+<div align="center">
+  <img src="./images/2.png" width="850" />
+  <br />
+  <img src="./images/3.png" width="850" />
+  <br />
+  <img src="./images/4.png" width="850" />
+  <br />
+  <img src="./images/5.png" width="850" />
+  <br />
+  <img src="./images/6.png" width="850" />
+  <br />
+  <img src="./images/7.png" width="850" />
+  <br />
+  <img src="./images/8.png" width="850" />
+</div>
 
 ---
 
