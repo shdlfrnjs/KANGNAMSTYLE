@@ -1,0 +1,17 @@
+@charset "UTF-8";
+#wrap {width:1400px; margin:0 auto; min-height:1000px;}
+header {height:100px;}
+.menu {height:40px; background-color: #ddd;}
+.contents {height:420px;}
+footer {height:120px;}
+.product {width:1200px;}
+
+.top-menu .nav-link {color:#888;}
+.top-menu .nav-link:hover {color:#000;}
+
+.menu .nav-link {color:#000;}
+.menu .nav-link:hover {color:#888;}
+
+.a {
+	text-decoration: none;
+}
