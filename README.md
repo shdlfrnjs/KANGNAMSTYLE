@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>KANGNAMSTYLE</h1>
-  <p>사용자 맞춤형 경험에 중점을 둔 쇼핑몰 웹 프로젝트</p>
+  <img src="./images/1.png" width="1000" />
 </div>
 
 ---
