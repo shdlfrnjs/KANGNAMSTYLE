@@ -28,7 +28,7 @@
 
 ### API / 기타
 ![PortOne](https://img.shields.io/badge/PortOne-00B2FF?style=for-the-badge&logo=paypal&logoColor=white)  
-![OpenWeatherMap](https://img.shields.io/badge/OpenWeather-1E90FF?style=for-the-badge&logo=openweathermap&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-1E90FF?style=for-the-badge&logo=openweathermap&logoColor=white)
 
 ---
 
